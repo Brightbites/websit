@@ -31,6 +31,6 @@ img {
 }
 
 .imginline{
-    width: 40%;
+    width: inherit;
     align-content: center;
 }
