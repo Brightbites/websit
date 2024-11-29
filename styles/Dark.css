@@ -31,5 +31,6 @@ img {
 }
 
 .imginline{
-    width: 80%;
+    width: 40%;
+    align-content: center;
 }
