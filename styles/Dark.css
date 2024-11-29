@@ -28,9 +28,6 @@ li {
 
 img {
     display: block;
-}
-
-.imginline{
-    width: inherit;
-    align-content: center;
+    max-height: 50%;
+    width: auto;
 }
