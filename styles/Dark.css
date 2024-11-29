@@ -4,9 +4,20 @@ html {
     background-color: #1a1a1a;
 }
 
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #3a0052;
+    padding: 0 20px 20px 20px;
+}
+
 h1 {
     font-size: 60px;
     text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
 }
   
 p,
